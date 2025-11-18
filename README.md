@@ -10,10 +10,6 @@ HealthTrack-Android is a **mobile healthcare application** built for Android dev
 - Visualize progress with charts and statistics.
 - User-friendly interface optimized for Android devices.
 
-## Screenshots
-
-> *(Add screenshots of your app here for better visibility.)*
-
 ## Installation
 
 1. Clone the repository:
@@ -65,6 +61,3 @@ This project is open-source and available under the **MIT License**.
 ---
 
 Made with ❤️ to help users track and improve their health.
-
-Do you want me to do that?
-```
