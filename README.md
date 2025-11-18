@@ -24,7 +24,7 @@ HealthTrack-Android is a **mobile healthcare application** built for Android dev
 
 ## Project Structure
 
-
+```
 HealthTrack-Android/
 ├── app/                    # Main Android application module
 │   ├── src/                # Source code
@@ -36,7 +36,7 @@ HealthTrack-Android/
 ├── build.gradle            # Project-level Gradle file
 ├── settings.gradle
 └── README.md
-
+```
 ## How to Run the App
 
 1. Open **Android Studio** and load the project.
